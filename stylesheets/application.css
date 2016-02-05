@@ -793,3 +793,16 @@ div.deal {
 table.progress td {padding: 0px;}
 
 div.details {padding: 20px !important;}
+
+
+/*************************************/
+/* SMALLER SIDEBAR                   */
+
+#content {
+  margin-right: 250px;
+  width: inherit;
+}
+
+#sidebar {
+  width: 225px;
+}
